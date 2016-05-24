@@ -5,4 +5,6 @@
 
 readme
 
-Creating a new branch is quick.& complex.
+
+Creating a new branch is quick.& complex AND simple.
+
